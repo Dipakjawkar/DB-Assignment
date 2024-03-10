@@ -1,3 +1,5 @@
+![image](https://github.com/Dipakjawkar/DB-Assignment/assets/120739704/85ba5206-c780-4747-a48c-2bec06b5b159)
+
 Questions
 
 1. Explain the relationship between the "Product" and "Product_Category" entities from the above diagram. =>
